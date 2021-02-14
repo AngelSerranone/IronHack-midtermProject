@@ -7,6 +7,12 @@ There are two application.properties files, one for the test database and one fo
 
 I have used the spring framework, and MySql to manage the database. Since the application has been developed in Madrid, I have put the timezone server in CET.
 
+## DATA STRUCTURE
+
+This is the structure and relationships of the database based on the given requirements.
+
+![](\src\main\resources\static\Images\EER-DIAGRAM.png)
+
 # Requirements and Instructions
 
 # Midterm Project
